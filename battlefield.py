@@ -8,9 +8,12 @@ class Battlefield:
         self.dinosaur = Dinosaur()
 
     def run_games(self):
+        
         pass
 
     def display_welcome(self):
+        print ("Welcome to the Field of Battle!")
+        print ("Only one can win!")
         pass
 
     def battle_phase(self):
